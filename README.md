@@ -1,2 +1,2 @@
 # PSX
-PSX Utils
+Pet simulator X Script
